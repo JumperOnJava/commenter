@@ -1,0 +1,2 @@
+REPLY_CHANCE=0.01
+DATABASE_PATH=messages.db
